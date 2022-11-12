@@ -13,7 +13,7 @@ playstore_link                            :                                     
 app_icon                                  : assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Japanese dictionary on your fingertips.
+app_description                           : Ebook reader with a lightning fast Japanese dictionary
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -27,7 +27,7 @@ email_address                             : support@immersionkit.com
 facebook_username                         :                                           
 instagram_username                        : 
 twitter_username                          : MathewChan10
-github_username                           : mathewthe2
+github_username                           : mathewthe2/immersion_reader
 youtube_username                          :
 
 
@@ -40,12 +40,20 @@ features                                  :
     fontawesome_icon_name                 : magic
     
   - title                                 : Import Custom Dictionaries
-    description                           : Copmatible with Yomichan dictionarie and frequency dictionaries.
+    description                           : Compatible with Yomichan dictionaries and frequency dictionaries.
     fontawesome_icon_name                 : mobile
   
   - title                                 : Anki Dojo Export
     description                           : Export your saved vocabulary to Anki via Anki Dojo.
     fontawesome_icon_name                 : star
+
+  - title                                 : Dictionary Styles
+    description                           : A ton of dictionary styles to choose from.
+    fontawesome_icon_name                 : fun
+
+  - title                                 : Open Source
+    description                           : Completely open source (MIT license). Dive in and twinkle as much as you like.
+    fontawesome_icon_name                 : github
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
