@@ -53,7 +53,7 @@ features                                  :
 
   - title                                 : Open Source
     description                           : Completely open source (MIT license). Dive in and tweak as much as you like.
-    fontawesome_icon_name                 : brands fa-github
+    fontawesome_icon_name                 : code
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
