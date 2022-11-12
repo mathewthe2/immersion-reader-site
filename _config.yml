@@ -49,11 +49,11 @@ features                                  :
 
   - title                                 : Dictionary Styles
     description                           : A ton of dictionary styles to choose from.
-    fontawesome_icon_name                 : fun
+    fontawesome_icon_name                 : palette
 
   - title                                 : Open Source
     description                           : Completely open source (MIT license). Dive in and twinkle as much as you like.
-    fontawesome_icon_name                 : github
+    fontawesome_icon_name                 : brands fa-github
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
