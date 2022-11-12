@@ -48,7 +48,7 @@ features                                  :
     fontawesome_icon_name                 : star
 
   - title                                 : Dictionary Styles
-    description                           : A ton of dictionary styles to choose from.
+    description                           : Light mode, dark mode, dracula, and a ton of others to choose from.
     fontawesome_icon_name                 : palette
 
   - title                                 : Open Source
