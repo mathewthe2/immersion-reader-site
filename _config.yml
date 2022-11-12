@@ -52,7 +52,7 @@ features                                  :
     fontawesome_icon_name                 : palette
 
   - title                                 : Open Source
-    description                           : Completely open source (MIT license). Dive in and twinkle as much as you like.
+    description                           : Completely open source (MIT license). Dive in and tweak as much as you like.
     fontawesome_icon_name                 : brands fa-github
 
   - title                                 : # New Feature Title
